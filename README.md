@@ -6,6 +6,7 @@ a couple of concepts without "auxiliary wheels."
 ## How to run the project
 Clone the repo to your machine, then do:
 > $npm install
+
 > $npm start
 
 # Sobre
@@ -16,4 +17,5 @@ porque pratiquei um ou dois conceitos sem as "rodinhas."
 ## Como executar o projeto
 Clone o repo para a sua máquina, depois execute:
 > $npm install
+
 > $npm start
